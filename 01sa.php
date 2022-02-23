@@ -26,6 +26,6 @@ foreach ($_macahipay as $_ressult){
        
     echo $_ressult["species"]."<br>";
             }
-
+echo "<br>";
 ?>
 
