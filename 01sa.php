@@ -12,6 +12,7 @@ $_macahipay = array(
         array("id" => 10,"species" => "Caterpie","type1" => "Bug","type2" => "N/A","ability" => 'Shield Dust',"hp" => 50,"attack" => 20,"defense" => 55)
                     );
     
+
 /*
 # Number 1
 echo print_r($_macahipay);
